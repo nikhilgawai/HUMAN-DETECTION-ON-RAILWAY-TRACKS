@@ -134,6 +134,14 @@ viewfinder of camera in real time when humans are crossing the Tracks.
 
   - In our model we have used JetPack version 4.6 which is the latest
     production release and supports all Jetson modules.
+    
+ ## Jetson Nano 2GB
+ 
+ 
+ ![IMG_20220125_115303](https://user-images.githubusercontent.com/89011801/157795178-532ee5e1-4e66-49c7-93a6-caf06a8b0653.jpg)
+
+ 
+    
 
 **PROPOSED SYSTEM**
 
